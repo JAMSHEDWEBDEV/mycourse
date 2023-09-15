@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/wzmsJS3/Rectangle-2-4.png",
+      "course_title": "Introduction to C++ for DSA",
+      "price": 10000,
+      "credit": 3,
+      "details": "Learn the fundamentals of programming with this introductory course."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/NWjz93W/Rectangle-2-3.png",
+      "course_title": "Introduction to Algorithms",
+      "price": 25000,
+      "credit": 4,
+      "details": "Explore the essentials of web development and build your first website."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/BgXw4D4/Rectangle-2.png",
+      "course_title": "Introduction to OOP Python",
+      "price": 19000,
+      "credit": 5,
+      "details": "Dive into data science and learn how to analyze and visualize data."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/8cXJkCd/Rectangle-2-1.png",
+      "course_title": "Database (MySQL)",
+      "price": 19000,
+      "credit": 6,
+      "details": "Master machine learning techniques and build predictive models."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/d7gQwGr/Rectangle-2-2.png",
+      "course_title": "Introduction to C Programming",
+      "price": 15000,
+      "credit": 4,
+      "details": "Explore the ethical considerations in artificial intelligence development."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/M7gxhVZ/Rectangle-2-5.png",
+      "course_title": "Software Engineering",
+      "price": 23000,
+      "credit": 3,
+      "details": "Learn the basics of digital marketing and promote your business online."
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/p3QDfL3/Rectangle-2-6.png",
+      "course_title": "Problem-Solving Part",
+      "price": 23000,
+      "credit": 3,
+      "details": "Manage your finances effectively with this financial planning course."
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/3yHj4pN/Rectangle-3.png",
+      "course_title": "Basic Data Structures",
+      "price": 35000,
+      "credit": 2,
+      "details": "Start your photography journey and capture stunning moments."
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/WVps3By/Rectangle-3-1.png",
+      "course_title": "AWS, Cloud Computing",
+      "price": 35000,
+      "credit": 2,
+      "details": "Master basic cooking techniques and create delicious dishes at home."
+    }
+  ]
+  
