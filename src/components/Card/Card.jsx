@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 const Card = ({course,selectCourse}) => {
     const {img,course_title,price,credit} = course;
     return (
-        <div>
-            <img className='w-full' src={img} alt="" />
-            <h1>{course_title}</h1>
-            <div className='flex justify-between'>
-                <h1>$ <span>Price : {price}</span></h1>
+        <div className='bg-gray-300 p-2 rounded'>
+            <img className='w-full my-2' src={img} alt="" />
+            <h1 className='text-xl font-bold my-3'>{course_title}</h1>
+            <div className='flex justify-between my-3'>
+                <h1 className='text-lg font-semibold'>$ <span>Price : {price}</span></h1>
                 <div>
                     <h2> Credit : {credit} hr</h2>
                 </div>
