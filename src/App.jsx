@@ -3,7 +3,7 @@ import Header from "./components/Header/Header";
 import { useState } from "react";
 import Cards from "./components/Cards/Cards";
 import Cart from "./components/Cart/Cart";
-// import Swal from 'sweetalert2';
+import Swal from 'sweetalert2';
 
 const App = () => {
     
